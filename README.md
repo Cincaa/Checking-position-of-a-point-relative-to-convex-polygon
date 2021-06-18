@@ -11,4 +11,4 @@ The decidability of hypothesis can be found in [Point relative to polygon.cpp](h
 
 # Demo
 
-https://check-position.000webhostapp.com
+https://check-position.herokuapp.com/index.html
