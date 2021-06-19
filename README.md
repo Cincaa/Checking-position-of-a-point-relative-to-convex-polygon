@@ -1,4 +1,4 @@
-# Checking position of a point relative to convex polygon in ℝ^2
+# Checking the position of a point relative to convex polygon in ℝ^2
 
 The algorithm follows a simple idea to check whether a point is inside or outside:
   - Draw a horizontal line to the right of each point and extend it to infinity
